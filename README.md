@@ -1,5 +1,9 @@
 ## Jônatas Santos.
 
+[![Twitter Badge](https://img.shields.io/badge/-@jtsmsantos-black?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/jtsmsantos)](https://twitter.com/jtsmsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-Jonatas%20Santos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%B4natas-santos-9715a263/)](https://www.linkedin.com/in/j%C3%B4natas-santos-9715a263/)
+[![Gmail Badge](https://img.shields.io/badge/-jts.msantos@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jts.msantos@gmail.com)](mailto:jts.msantos@gmail.com)
+
 Building a idea: @reporteme system.
 
 > "The excellent only happens when the fundamentals are ready. unknown"
