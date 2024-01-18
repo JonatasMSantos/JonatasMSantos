@@ -19,6 +19,7 @@ My Roadmap site: [jonatas.works](https://jonatas.works/).
 #### Currently preferred technologies
 
 ![Static Badge](https://img.shields.io/badge/Java-F7DF1E?logo=openjdk&logoColor=wite&color=black)
+![Static Badge](https://img.shields.io/badge/Spring-F7DF1E?logo=spring&logoColor=wite&color=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=w&color=black)
 ![Static Badge](https://img.shields.io/badge/Node-F7DF1E?logo=nodedotjs&logoColor=wite&color=black)
 ![Static Badge](https://img.shields.io/badge/Typescript-F7DF1E?logo=typescript&logoColor=wite&color=black)
