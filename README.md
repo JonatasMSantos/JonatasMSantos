@@ -12,9 +12,8 @@ Building a idea: @reporteme system.
 > "The excellent only happens when the fundamentals are ready. unknown"
 
 ------------
-I currently learning: ![Static Badge](https://img.shields.io/badge/NextJS-F7DF1E?logo=nextdotjs&logoColor=wite&color=black)
 
-My website * Built with reporte.me. *: [jonatas.reporte.me](https://jonatas.reporte.me/).
+My website : [jonatas.online](https://jonatas.online/).
 
 #### Currently preferred technologies
 
